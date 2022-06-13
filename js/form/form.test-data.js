@@ -14,7 +14,7 @@ const testData = [
   new ExampleItem('Скороходова Мария', parseInt('+79522657547'), 'skorohodova@mail.ru', 'course-js'),
   new ExampleItem('Старцев Антон', parseInt('+79525869688'), 'startcev@mail.ru', 'course-vue'),
   new ExampleItem('Макаров Анатолий', parseInt('+79678458678'), 'makarov@mail.ru', 'course-vue'),
-  new ExampleItem('Романов Александр', parseInt('+79524567587'), 'romanov@mail.ru', 'ccourse-js'),
+  new ExampleItem('Романов Александр', parseInt('+79524567587'), 'romanov@mail.ru', 'course-js'),
   new ExampleItem('Лузина Анна', parseInt('+77686473455'), 'luzina@mail.ru', 'course-wordpress'),
   new ExampleItem('Перетятько Елизавета', parseInt('+79576899085'), 'peretyatko@mail.ru', 'course-wordpress'),
   new ExampleItem('Кулакова Ольга', parseInt('+79545678437'), 'kulakova@mail.ru', 'course-html'),

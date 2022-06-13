@@ -17,6 +17,13 @@ function insertTestData(data){
 
 function getFormInput(){
    return new FormData(elements.form)
+   
 }
 
-export{elements, insertTestData, getFormInput}
+function clearForm(){
+   elements.form.reset();
+}
+
+
+
+export{elements, insertTestData, getFormInput, clearForm}
